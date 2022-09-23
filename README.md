@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Barbara Braune a computational physics student from Brazil!
 - 👀 I’m interested in data science and DLS analysis
-- 🌱 I’m currently learning HTML, CSS, Java, Python. With knowledge in object-oriented C++ and C with enfasis in HPC (OpenMP and MPI)
+- 🌱 I’m currently learning Python. With knowledge in object-oriented C++ and C with enfasis in HPC (OpenMP and MPI)
 - 📫 How to reach me: babi.braune@gmail.com
 
 <!---
