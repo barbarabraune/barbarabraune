@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Barbara Braune a computational physicist from Brazil!
 - 👀 I’m interested in data science and DLS analysis
-- 🌱 I’m currently learning Python, C# and R. With knowledge in object-oriented C++ and C with enfasis in HPC (OpenMP and MPI)
+- 🌱 I’m currently learning SQL and C#. With knowledge in object-oriented C++ and C with enfasis in HPC (OpenMP and MPI)
 - 📫 How to reach me: babi.braune@gmail.com
 
 <!---
